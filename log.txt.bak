@@ -1,0 +1,18 @@
+2016-10-21 08:29:49,422 [7] INFO  DataService.Controllers.DataServiceController [(null)] - sakha Info logging
+2016-10-21 08:29:49,443 [7] ERROR DataService.Controllers.DataServiceController [(null)] - This is my error
+2016-10-21 08:29:49,737 [8] INFO  DataService.Controllers.DataServiceController [(null)] - sakha Info logging
+2016-10-21 08:29:49,738 [8] ERROR DataService.Controllers.DataServiceController [(null)] - This is my error
+2016-10-21 08:40:14,666 [8] INFO  DataService.Controllers.DataServiceController [(null)] - sakha Info logging
+2016-10-21 08:40:14,681 [8] ERROR DataService.Controllers.DataServiceController [(null)] - This is my error
+2016-10-21 09:26:25,317 [6] INFO  DataService.Controllers.DataServiceController [(null)] - sakha Info logging
+2016-10-21 09:26:25,333 [6] ERROR DataService.Controllers.DataServiceController [(null)] - This is my error
+2016-10-21 09:26:25,346 [6] INFO  DataService.DBManager [(null)] - opening connection
+2016-10-21 09:26:25,467 [6] INFO  DataService.DBManager [(null)] - Success: connection opened!
+2016-10-21 09:26:30,459 [6] FATAL DataService.DBManager [(null)] - GetDataSet
+System.ArgumentException: Begrænsningen kan ikke aktiveres, for der er ikke tilsvarende overordnede værdier for alle værdier.
+   ved System.Data.ConstraintCollection.AddForeignKeyConstraint(ForeignKeyConstraint constraint)
+   ved System.Data.ConstraintCollection.Add(Constraint constraint, Boolean addUniqueWhenAddingForeign)
+   ved System.Data.DataRelationCollection.DataSetRelationCollection.AddCore(DataRelation relation)
+   ved System.Data.DataRelationCollection.Add(DataRelation relation)
+   ved System.Data.DataRelationCollection.Add(String name, DataColumn parentColumn, DataColumn childColumn)
+   ved DataService.DBManager.GetDataSet() i C:\Compare\DataService\DataService\DBManager.cs:linje 104

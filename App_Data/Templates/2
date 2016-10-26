@@ -1,0 +1,88 @@
+[
+    {
+      "display": "Manufacturer",
+      "controltype": "combobox",
+      "id": "manufacturer",
+      "propertyName": "Manufacturer"
+    },
+    {
+      "display": "Model",
+      "controltype": "textbox",
+      "id": "model",
+      "required": true
+    },
+    {
+      "display": "Title",
+      "controltype": "textbox",
+      "id": "title",
+      "required": false
+    },
+    {
+      "display": "Type",
+      "controltype": "combobox",
+      "id": "type",
+      "propertyName": "Type"
+    },
+    {
+      "display": "Price",
+      "controltype": "textbox",
+      "id": "price",
+      "required": true,
+      "datatype": "number",
+      "units": "Rs"
+    },
+    {
+      "display": "Available Colors",
+      "controltype": "listbox",
+      "id": "color",
+      "required": true,
+      "propertyName": "Colors"
+    },
+    {
+      "display": "Width",
+      "controltype": "textbox",
+      "id": "width",
+      "datatype": "number",
+      "units": "cm"
+    },
+    {
+      "display": "Height",
+      "controltype": "textbox",
+      "id": "height",
+      "datatype": "number",
+      "units": "cm"
+    },
+    {
+      "display": "Depth",
+      "controltype": "textbox",
+      "id": "depth",
+      "datatype": "number",
+      "units": "cm"
+    },
+    {
+      "display": "Capacity",
+      "controltype": "textbox",
+      "id": "capacity",
+      "units": "kgs",
+      "datatype": "number",
+      "required": true
+    },
+    {
+      "display": "Noise Level",
+      "controltype": "textbox",
+      "id": "noiselevel",
+      "units": "db",
+      "datatype": "number",
+      "required": true
+    },
+    {
+      "display": "Features",
+      "controltype": "textbox",
+      "id": "features",
+      "units": "[Comma Separated!]",
+      "required": true,
+      "multiline": true
+    }
+]
+
+   

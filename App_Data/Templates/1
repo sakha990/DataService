@@ -1,0 +1,115 @@
+[
+    {
+      "display": "Manufacturer",
+      "controltype": "combobox",
+      "id": "manufacturer",
+      "propertyName": "Manufacturer"
+    },
+    {
+      "display": "Model",
+      "controltype": "textbox",
+      "id": "model",
+      "required": true
+    },
+    {
+      "display": "Title",
+      "controltype": "textbox",
+      "id": "title",
+      "required": false
+    },
+    {
+      "display": "Price",
+      "controltype": "textbox",
+      "id": "price",
+      "required": true,
+      "datatype": "number",
+      "units": "Rs"
+    },
+    {
+      "display": "Composition",
+      "controltype": "combobox",
+      "id": "composition",
+      "propertyName": "Composition"
+    },
+    {
+      "display": "EnergyClass",
+      "controltype": "combobox",
+      "id": "energyclass",
+      "propertyName": "EnergyClass"
+    },
+
+    {
+      "display": "Available Colors",
+      "controltype": "listbox",
+      "id": "colors",
+      "required": true,
+      "propertyName": "Colors"
+    },
+    {
+      "display": "Width",
+      "controltype": "textbox",
+      "id": "width",
+      "datatype": "number",
+      "units": "mm"
+    },
+    {
+      "display": "Height",
+      "controltype": "textbox",
+      "id": "height",
+      "datatype": "number",
+      "units": "mm"
+    },
+    {
+      "display": "Depth",
+      "controltype": "textbox",
+      "id": "depth",
+      "datatype": "number",
+      "units": "cm"
+    },
+    {
+      "display": "Fridge Volume",
+      "controltype": "textbox",
+      "id": "fridgevolume",
+      "units": "liters",
+      "datatype": "number",
+      "required": true
+    },
+    {
+      "display": "Fridge Shelves/Boxes",
+      "controltype": "textbox",
+      "id": "fridgeshelves",
+      "datatype": "number"
+    },
+    {
+      "display": "Freezer Shelves/Boxes",
+      "controltype": "textbox",
+      "id": "freezershelves",
+      "datatype": "number"
+    },
+
+    {
+      "display": "Noise Level",
+      "controltype": "textbox",
+      "id": "noiselevel",
+      "units": "db",
+      "datatype": "number",
+      "required": true
+    },
+    {
+      "display": "Warranty",
+      "controltype": "textbox",
+      "id": "warranty",
+      "units": "years",
+      "datatype": "number",
+      "required": true
+    },
+
+    {
+      "display": "Features",
+      "controltype": "textbox",
+      "id": "features",
+      "units": "[Comma Separated!]",
+      "required": true,
+      "multiline": true
+    }
+  ]

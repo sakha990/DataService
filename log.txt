@@ -1,0 +1,720 @@
+2016-10-21 09:45:37,539 [8] INFO  DataService.Controllers.DataServiceController [(null)] - sakha Info logging
+2016-10-21 09:45:37,561 [8] ERROR DataService.Controllers.DataServiceController [(null)] - This is my error
+2016-10-21 09:45:37,571 [8] INFO  DataService.DBManager [(null)] - opening connection
+2016-10-21 09:45:37,748 [8] INFO  DataService.DBManager [(null)] - Success: connection opened!
+2016-10-21 09:45:40,352 [8] INFO  DataService.DBManager [(null)] - connected opened and adapters are filled
+2016-10-21 09:56:56,638 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 09:56:56,665 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 09:56:56,778 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 09:56:56,786 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 09:56:56,788 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 09:56:56,831 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 10:25:08,133 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 10:25:08,163 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 10:25:08,302 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 10:25:08,311 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 10:25:08,312 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 10:25:08,362 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 10:31:24,873 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 10:31:24,896 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 10:31:25,039 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 10:31:25,095 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 10:31:25,096 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 10:31:25,154 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 10:33:02,005 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 10:33:02,006 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 10:33:02,035 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 10:33:02,041 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 10:33:02,042 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 10:33:02,075 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 10:33:31,504 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 10:33:31,505 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 10:33:31,524 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 10:33:31,527 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 10:33:31,528 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 10:33:31,560 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 10:48:38,110 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 10:48:38,132 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 10:48:38,249 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 10:48:38,257 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 10:48:38,258 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 10:48:38,302 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:00:12,983 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:00:13,008 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:00:13,222 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:00:13,234 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:00:13,235 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:00:13,282 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:08:17,271 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:08:17,302 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:08:17,425 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:08:17,432 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:08:17,433 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:08:17,476 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:20:48,421 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:20:48,456 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:20:48,645 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:20:48,658 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:20:48,659 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:20:48,707 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:38:39,626 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:38:39,678 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:38:40,067 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:38:40,077 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:38:40,078 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:38:40,127 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:48:29,187 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:48:29,231 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:48:29,499 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:48:29,529 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:48:29,530 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:48:29,632 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:49:33,501 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:49:33,544 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:49:33,896 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:49:33,975 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:49:33,977 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:49:34,080 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 11:58:40,899 [12] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 11:58:40,930 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 11:58:41,425 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 11:58:41,552 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 11:58:41,557 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 11:58:41,691 [12] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:02:53,784 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:02:53,813 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:02:53,953 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 12:02:53,963 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 12:02:53,964 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 12:02:54,019 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:09:34,571 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:09:34,624 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:09:34,829 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 12:09:34,897 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 12:09:34,908 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 12:09:34,970 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:16:49,569 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:16:49,670 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:16:49,867 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 12:16:50,261 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 12:16:50,263 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 12:16:50,344 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:16:55,563 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 12:17:06,580 [6] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-21 12:17:06,628 [6] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-21 12:17:06,640 [6] ERROR DataService.DBManager [(null)] - MergeRecords:: exception occurred:
+System.NullReferenceException: Objektreferencen er ikke indstillet til en forekomst af et objekt.
+   ved DataService.DBManager.MergeRecords(List`1 records) i C:\Compare\DataService\DataService\DBManager.cs:linje 32
+2016-10-21 12:17:06,678 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: End inserting data
+2016-10-21 12:18:50,425 [18] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 12:23:11,261 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:23:11,293 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:23:11,444 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 12:23:11,548 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 12:23:11,550 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 12:23:11,617 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:23:16,298 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 12:25:25,754 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:25:25,786 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:25:25,805 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 12:46:40,201 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 12:46:40,233 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 12:46:40,397 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 12:46:40,421 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 12:46:40,422 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 12:46:40,470 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 12:46:45,073 [13] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 13:08:55,129 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 13:08:55,154 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 13:08:55,415 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 13:08:55,442 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 13:08:55,443 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 13:08:55,506 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 13:35:35,537 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 13:35:35,580 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 13:35:35,712 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 13:35:35,732 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 13:35:35,733 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 13:35:35,777 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 13:36:36,237 [14] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 13:37:33,642 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 13:37:33,681 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 13:37:33,792 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 13:37:33,801 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 13:37:33,802 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 13:37:33,846 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 13:37:34,680 [5] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 13:40:31,265 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 13:40:31,293 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 13:40:31,486 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 13:40:31,496 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 13:40:31,497 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 13:40:31,540 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 13:44:45,053 [20] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 13:44:58,064 [20] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:0 , propertyValue:
+2016-10-21 13:44:58,092 [20] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-21 13:44:58,129 [20] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-21 13:44:58,231 [20] ERROR DataService.DBManager [(null)] - MergeRecords:: exception occurred:
+System.Data.OleDb.OleDbException (0x80040E10): Parameter ?_2 har ingen standardværdi.
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   ved System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   ved DataService.DBManager.MergeRecords(KeyValuePair`2 propertyId) i C:\Compare\DataService\DataService\DBManager.cs:linje 37
+2016-10-21 13:44:58,275 [20] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: End inserting data
+2016-10-21 15:58:55,015 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 15:58:55,064 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 15:58:55,370 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 15:58:55,395 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 15:58:55,396 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 15:58:55,468 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 15:58:57,714 [8] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:12:01,232 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:12:01,265 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:12:01,386 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:12:01,418 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:12:01,419 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:12:01,468 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:12:13,771 [5] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:16:06,084 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:16:06,113 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:16:06,261 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:16:06,272 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:16:06,274 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:16:06,320 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:21:24,471 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:21:24,528 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:21:24,745 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:21:24,761 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:21:24,762 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:21:24,808 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:21:56,550 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:23:18,534 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:23:18,563 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:23:18,778 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:23:18,788 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:23:18,789 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:23:18,844 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:24:35,026 [16] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:25:47,884 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:25:47,910 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:25:48,102 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:25:48,111 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:25:48,112 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:25:48,161 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:25:58,162 [8] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:32:28,215 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:32:28,246 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:32:28,380 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:32:28,428 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:32:28,429 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:32:28,474 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:35:59,723 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:35:59,759 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:35:59,886 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:35:59,894 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:35:59,895 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:35:59,950 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:36:10,353 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 16:42:35,333 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:42:35,358 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:42:35,474 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:42:35,481 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:42:35,482 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:42:35,531 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:43:58,913 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:43:58,946 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:43:59,157 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:43:59,167 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:43:59,168 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:43:59,218 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:47:03,054 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:47:03,088 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:47:03,266 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:47:03,280 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:47:03,282 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:47:03,345 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:58:33,158 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 16:58:33,393 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 16:58:33,643 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 16:58:33,992 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 16:58:33,993 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 16:58:34,068 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 16:58:41,211 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:00:25,755 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:00:25,781 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:00:25,917 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:00:25,934 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:00:25,935 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:00:25,982 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:00:41,739 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:03:32,617 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:03:32,646 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:03:32,787 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:03:32,796 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:03:32,797 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:03:32,841 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:03:47,633 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:14:03,121 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:14:03,179 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:14:03,420 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:14:03,551 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:14:03,602 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:14:03,743 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:32:45,694 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:32:45,805 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:32:46,474 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:32:46,852 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:32:46,853 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:32:46,959 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:36:14,432 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:36:14,465 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:36:14,609 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:36:14,813 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:36:14,814 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:36:14,864 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:37:24,449 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:37:24,507 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:37:47,175 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:37:47,200 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:37:47,205 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:42:14,525 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:42:14,563 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:42:32,972 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:44:35,216 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:44:35,241 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:44:35,429 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:44:35,438 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:44:35,439 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:44:35,487 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:44:38,255 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:44:50,999 [7] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId: , propertyValue:
+2016-10-21 17:44:51,009 [7] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-21 17:44:51,034 [7] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-21 17:44:51,117 [7] ERROR DataService.DBManager [(null)] - MergeRecords:: exception occurred:
+System.Data.OleDb.OleDbException (0x80040E10): Parameter ?_1 har ingen standardværdi.
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   ved System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   ved DataService.DBManager.MergeRecords(String propertyId) i C:\Compare\DataService\DataService\DBManager.cs:linje 37
+2016-10-21 17:44:51,158 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: End inserting data
+2016-10-21 17:45:00,335 [7] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:46:40,317 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:46:40,347 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:46:40,581 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:46:40,592 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:46:40,593 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:46:40,640 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:47:53,575 [17] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:48:40,268 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:48:40,295 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:48:40,520 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:48:40,529 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:48:40,530 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:48:40,574 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:49:20,154 [11] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:50:30,338 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:50:30,365 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:50:30,552 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:50:30,561 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:50:30,561 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:50:30,607 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:50:39,093 [15] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:53:37,722 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:53:37,761 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:53:38,066 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:53:38,102 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:53:38,103 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:53:38,157 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:53:42,875 [8] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 17:58:48,071 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 17:58:48,301 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 17:58:49,200 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 17:58:49,237 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 17:58:49,237 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 17:58:49,302 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 17:58:55,759 [15] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 18:03:58,026 [9] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 18:03:58,070 [9] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 18:04:27,532 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 18:04:27,556 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 18:04:27,757 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 18:04:27,766 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 18:04:27,767 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 18:04:27,816 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 18:06:22,027 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 18:06:22,097 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 18:06:22,258 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 18:06:22,321 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 18:06:22,322 [5] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 18:06:22,398 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 21:12:52,275 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 21:12:52,309 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 21:12:52,620 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 21:12:52,640 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 21:12:52,641 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 21:12:52,706 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 21:12:59,065 [6] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 21:22:40,954 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 21:22:40,982 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 21:22:41,131 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 21:22:41,174 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 21:22:41,175 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 21:22:41,237 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 21:25:16,656 [19] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-21 21:25:48,494 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST99
+2016-10-21 21:25:57,010 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-21 21:25:58,654 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-21 21:26:06,426 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST88
+2016-10-21 21:26:12,007 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-21 21:26:13,604 [19] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-21 21:26:31,399 [19] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: End inserting data
+2016-10-21 22:36:34,376 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 22:36:34,408 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 22:36:34,551 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 22:36:34,576 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 22:36:34,576 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 22:36:34,622 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 22:41:42,630 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 22:41:42,631 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 22:41:42,691 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 22:41:42,695 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 22:41:42,696 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 22:41:42,732 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-21 22:44:14,393 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-21 22:44:14,394 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-21 22:44:14,418 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-21 22:44:14,421 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-21 22:44:14,421 [18] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-21 22:44:14,455 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:13:56,280 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-22 12:13:56,318 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-22 12:13:56,534 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-22 12:13:56,555 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-22 12:13:56,556 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-22 12:13:56,607 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:27:17,960 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-22 12:27:18,005 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-22 12:27:18,303 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-22 12:27:18,346 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-22 12:27:18,348 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-22 12:27:18,406 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:31:58,011 [21] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-22 12:33:54,974 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-22 12:33:55,041 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-22 12:33:55,459 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-22 12:33:55,471 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-22 12:33:55,473 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-22 12:33:55,530 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:34:38,424 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-22 12:34:38,456 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-22 12:34:38,611 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-22 12:34:38,624 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-22 12:34:38,624 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-22 12:34:38,678 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:34:46,101 [16] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-22 12:34:52,242 [16] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST999
+2016-10-22 12:34:52,243 [16] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-22 12:34:52,299 [16] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-22 12:36:13,662 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-22 12:36:13,691 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-22 12:36:13,835 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-22 12:36:13,843 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-22 12:36:13,844 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-22 12:36:13,887 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-22 12:36:29,530 [15] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-22 12:36:31,786 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST999
+2016-10-22 12:36:31,798 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-22 12:36:31,825 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-22 12:36:31,894 [15] ERROR DataService.DBManager [(null)] - MergeRecords:: exception occurred:
+System.Data.OleDb.OleDbException (0x80004005): De ønskede ændringer af tabellen blev ikke gennemført, fordi de ville give duplikerede værdier i indekset, den primære nøgle eller relationen. Rediger dataene i det eller de felter, der indeholder duplikerede data, fjern indekset, eller omdefiner indekset, så duplikerede angivelser tillades, og forsøg igen.
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   ved System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   ved DataService.DBManager.MergeRecords(String inputString) i C:\Compare\DataService\DataService\DBManager.cs:linje 41
+2016-10-22 12:36:31,934 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST888
+2016-10-22 12:36:31,935 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-22 12:36:31,961 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-22 12:36:32,004 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST777
+2016-10-22 12:36:32,004 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-22 12:36:32,031 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-22 12:36:32,070 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Inserting:: propertyId:7 , propertyValue:TEST666
+2016-10-22 12:36:32,071 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: opening connection
+2016-10-22 12:36:32,149 [15] INFO  DataService.DBManager [(null)] - MergeRecords:: Success: connection opened!
+2016-10-22 12:36:32,189 [15] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: End inserting data
+2016-10-23 11:00:48,497 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 11:00:48,524 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 11:00:48,712 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 11:00:48,729 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 11:00:48,730 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 11:00:48,780 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 11:04:07,568 [17] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Start getting Template File
+2016-10-23 11:04:07,571 [17] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Success
+2016-10-23 11:05:02,252 [6] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Start getting Template File
+2016-10-23 11:05:02,255 [6] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Success
+2016-10-23 12:00:19,412 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 12:00:19,439 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 12:00:19,670 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 12:00:19,678 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 12:00:19,679 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 12:00:19,726 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 12:00:35,997 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 12:00:35,998 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 12:00:36,034 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 12:00:36,038 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 12:00:36,039 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 12:00:36,072 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 12:00:36,098 [14] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Start getting Template File
+2016-10-23 12:00:36,099 [14] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Success
+2016-10-23 21:27:51,081 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:27:51,134 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:27:51,336 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:27:51,373 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:27:51,375 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:27:51,436 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:28:51,743 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:28:51,793 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:28:51,971 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:28:52,033 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:28:52,034 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:28:52,099 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:29:04,717 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 21:29:04,719 [11] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 21:29:04,751 [11] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 21:29:04,846 [11] FATAL DataService.DBManager [(null)] - GetTemplateDataSet:: 
+System.Data.OleDb.OleDbException (0x80040E37): Microsoft Access-databaseprogrammet kan ikke finde inputtabellen eller forespørgslen "Templates". Kontrollér, at den findes, og at navnet er stavet korrekt.
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   ved System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   ved System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   ved System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   ved System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   ved System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   ved System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   ved DataService.DBManager.GetTemplateDataTable() i C:\Compare\DataService\DataService\DBManager.cs:linje 151
+2016-10-23 21:29:04,886 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-23 21:29:24,695 [12] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 21:31:03,883 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:31:03,922 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:31:04,204 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:31:04,216 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:31:04,217 [6] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:31:04,266 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:31:11,848 [9] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 21:31:13,777 [9] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 21:31:13,813 [9] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 21:31:13,815 [9] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-23 21:31:13,848 [9] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-23 21:32:55,749 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 21:32:57,941 [6] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 21:32:58,075 [6] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 21:32:58,082 [6] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-23 21:32:58,131 [6] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-23 21:34:18,992 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 1
+2016-10-23 21:34:19,052 [7] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 1
+2016-10-23 21:36:11,201 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:36:11,237 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:36:11,372 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:36:11,383 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:36:11,384 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:36:11,431 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:39:10,059 [18] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-23 21:41:39,275 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:41:39,309 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:41:39,485 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:41:39,518 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:41:39,519 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:41:39,569 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:42:45,291 [12] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:42:45,338 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:42:45,543 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:42:45,553 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:42:45,554 [12] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:42:45,603 [12] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:49:47,933 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 21:49:47,958 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 21:49:48,077 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 21:49:48,086 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 21:49:48,087 [7] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 21:49:48,145 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 21:50:40,522 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 1
+2016-10-23 21:50:40,556 [11] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 1
+2016-10-23 23:53:52,252 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-23 23:53:52,293 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-23 23:53:52,445 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-23 23:53:52,460 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-23 23:53:52,460 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-23 23:53:52,513 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-23 23:55:28,379 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 23:55:28,380 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 23:55:28,406 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 23:55:28,409 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-23 23:55:28,442 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-23 23:58:31,993 [22] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 23:58:31,994 [22] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 23:58:32,025 [22] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 23:58:32,027 [22] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-23 23:58:32,061 [22] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-23 23:59:54,648 [21] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-23 23:59:54,649 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-23 23:59:54,681 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-23 23:59:54,688 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-23 23:59:54,721 [21] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 00:02:24,012 [30] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 00:02:24,013 [30] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 00:02:24,038 [30] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 00:02:24,039 [30] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 00:02:24,073 [30] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 00:05:02,594 [35] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 00:05:02,595 [35] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 00:05:02,629 [35] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 00:05:02,631 [35] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 00:05:02,662 [35] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:05:48,382 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 08:05:48,413 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 08:05:48,626 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 08:05:48,648 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 08:05:48,649 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 08:05:48,692 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 08:06:40,766 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:06:40,767 [7] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:06:40,791 [7] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:06:40,794 [7] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:06:40,840 [7] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:06:52,528 [5] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 3
+2016-10-24 08:06:52,589 [5] ERROR DataService.Controllers.DataServiceController [(null)] - Template::System.IO.FileNotFoundException: Filen 'C:\Compare\DataService\DataService\App_Data\Templates\3' blev ikke fundet.
+Filnavn: 'C:\Compare\DataService\DataService\App_Data\Templates\3'
+   ved System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   ved System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   ved System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   ved System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   ved System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   ved System.IO.File.ReadAllText(String path)
+   ved DataService.Controllers.DataServiceController.GetTemplateFile(String id) i C:\Compare\DataService\DataService\Controllers\DataServiceController.cs:linje 49
+2016-10-24 08:08:49,247 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:08:49,248 [8] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:08:49,273 [8] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:08:49,275 [8] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:08:49,308 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:09:35,808 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:09:35,812 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:09:35,841 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:09:35,843 [17] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:09:35,876 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:10:46,713 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 08:10:46,737 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 08:10:46,911 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 08:10:46,919 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 08:10:46,920 [11] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 08:10:46,966 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 08:11:35,398 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:11:35,399 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:11:35,424 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:11:35,425 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:11:35,458 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:11:56,877 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 1
+2016-10-24 08:11:56,880 [16] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 1
+2016-10-24 08:13:52,733 [23] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:13:52,733 [23] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:13:52,759 [23] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:13:52,761 [23] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:13:52,793 [23] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:13:59,187 [23] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 1
+2016-10-24 08:13:59,190 [23] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 1
+2016-10-24 08:17:01,308 [28] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 08:17:01,309 [28] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 08:17:01,349 [28] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 08:17:01,352 [28] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 08:17:01,386 [28] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 08:17:04,977 [23] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 1
+2016-10-24 08:17:04,980 [23] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 1
+2016-10-24 08:17:15,983 [23] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplateFile:: Start getting Template File with id = 2
+2016-10-24 08:17:15,987 [23] INFO  DataService.Controllers.DataServiceController [(null)] - Template:: Template File Fetch Ends id = 2
+2016-10-24 08:17:34,579 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 08:17:34,579 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 08:17:34,614 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 08:17:34,617 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 08:17:34,618 [8] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 08:17:34,649 [8] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:36:24,390 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:36:24,412 [18] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:36:24,633 [18] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:36:24,639 [18] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:36:24,692 [18] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:36:24,834 [11] INFO  DataService.Controllers.DataServiceController [(null)] - MergeRecords:: Start inserting data
+2016-10-24 10:42:42,385 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:42:42,407 [11] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:42:42,575 [11] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:42:42,581 [11] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:42:42,626 [11] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:42:44,464 [15] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:42:44,466 [15] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:42:44,490 [15] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:42:44,498 [15] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:42:44,498 [15] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:42:44,533 [15] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:44:14,128 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:44:14,129 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:44:14,153 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:44:14,159 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:44:14,191 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:44:15,749 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:44:15,757 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:44:15,788 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:44:15,793 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:44:15,794 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:44:15,827 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:44:59,607 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:44:59,608 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:44:59,637 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:44:59,639 [16] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:44:59,672 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:44:59,703 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:44:59,703 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:44:59,724 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:44:59,730 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:44:59,734 [16] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:44:59,768 [16] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:46:20,216 [21] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:46:20,217 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:46:20,241 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:46:20,243 [21] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:46:20,276 [21] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:46:20,320 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:46:20,320 [17] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:46:20,353 [17] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:46:20,366 [17] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:46:20,367 [17] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:46:20,408 [17] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:51:47,338 [27] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:51:47,339 [27] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:51:47,368 [27] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:51:47,369 [27] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:51:47,404 [27] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:51:47,428 [27] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:51:47,431 [27] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:51:47,453 [27] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:51:47,460 [27] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:51:47,460 [27] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:51:47,493 [27] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
+2016-10-24 10:56:59,355 [46] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: Start fetching data
+2016-10-24 10:56:59,356 [46] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: opening connection
+2016-10-24 10:56:59,381 [46] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: Success: connection opened!
+2016-10-24 10:56:59,382 [46] INFO  DataService.DBManager [(null)] - GetTemplateDataSet:: adapter is filled
+2016-10-24 10:56:59,415 [46] INFO  DataService.Controllers.DataServiceController [(null)] - GetTemplatDataSet:: End fetching data
+2016-10-24 10:56:59,437 [44] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: Start fetching data
+2016-10-24 10:56:59,438 [44] INFO  DataService.DBManager [(null)] - GetDataSet:: opening connection
+2016-10-24 10:56:59,458 [44] INFO  DataService.DBManager [(null)] - GetDataSet:: Success: connection opened!
+2016-10-24 10:56:59,470 [44] INFO  DataService.DBManager [(null)] - GetDataSet:: adapters are filled
+2016-10-24 10:56:59,471 [44] INFO  DataService.DBManager [(null)] - GetDataSet:: foreign key relation created!
+2016-10-24 10:56:59,505 [44] INFO  DataService.Controllers.DataServiceController [(null)] - GetData:: End fetching data
